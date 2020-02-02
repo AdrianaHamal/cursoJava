@@ -1,4 +1,6 @@
-package Curso;
+package curso;
+
+
 
 public class Main {
 
